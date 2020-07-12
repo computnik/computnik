@@ -8,5 +8,4 @@ I’m a Staff Software Engineer (Tech Lead & Software Architect) living in [Bang
 
 I spend my days with my hands in many different areas of full stack development from back end programming in [nodejs](https://nodejs.org/) to front end engineering with [react](https://reactjs.org/).
 
-I’m extremely passionate about full stack development all its forms and helping the community via some open source contributions. Aside from programming, I enjoy spending my time with my friends, watching TV Series, gaming, and travelling. 
-
+I’m extremely passionate about full stack development all its forms and helping the community via some open source contributions. Aside from programming, I enjoy spending my time with my friends, watching TV Series (Checkout my [TV-time profile](https://www.tvtime.com/en/user/1766332/profile)), gaming, and travelling.
