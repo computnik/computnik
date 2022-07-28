@@ -11,15 +11,15 @@
 
 - 🔭 I’m currently working on **micro-frontends with module-federation**
 
-- 🌱 I’m currently learning **svelte, svelte-kit, Next.js, GatsbyJS, tailwind**
+- 🌱 I’m currently dabbling with **svelte, svelte-kit, Next.js, tailwind**
 
-- 🤝 I’m looking to collaborate on **module-federation**
+- 🤝 I’m looking to collaborate on **module-federation, microfrontends**
 
 - 👨🏻‍💻 All of my projects are available at [https://computnik.dev](https://computnik.dev)
 
 <!-- - 📝 I regularly write articles on [https://computnik.dev/](https://computnik.dev/) -->
 
-- 💬 Ask me about **javascript, typescript, react, redux, web, webpack, module-federation, micro-frontends**
+- 💬 Ask me about **javascript, typescript, react, web, webpack, module-federation, micro-frontends**
 
 - 📄 Know about my experiences [https://computnik.dev](https://computnik.dev)
 
@@ -28,19 +28,18 @@
 
 <h3 align="left">About me:</h3>
 <p align="left">
-    I am a technology enthusiast 👨🏻‍💻, with expertise 🤷🏻‍♂️ in web development 🌐, majorly in JavaScript & its Frameworks.
+    I am a technology enthusiast 👨🏻‍💻, with proficiency (a little I guess 🤷🏻‍♂️) in web development 🌐, majorly in JavaScript & its Frameworks.
 </p>
 
 <p align="left">
-    Currently, I am associated with <a href="https://www.paypal.com/">PayPal</a> (@paypal) as a Staff Engineer 👨🏻‍💼 (MTS -1) in the Commerce Services domain, building frameworks & Tools to help scale PayPal Inc. Commerce Platform & Services like Unified PayPal Merchant Dashboard for @paypal @braintree @hyperwallet & @iZettle.
+    Currently, I am associated with <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="15" height="15"/> Postman</a> (@postmanlabs) as a Staff Engineer 👨🏻‍💼 for Web Platform Team, helping build Postman Client of the future
+</p>
+<p align="left">
+    Before this I was associated with <a href="https://www.paypal.com/" target="_blank"><img src="https://www.paypalobjects.com/webstatic/icon/pp32.png" alt="paypal" width="15" height="15" /> PayPal</a> (@paypal) as a Staff Engineer 👨🏻‍💼 (MTS -1) in the Commerce Services domain. I was helping build frameworks & Tools to help scale PayPal Inc. Commerce Platform & Services like Unified PayPal Merchant Dashboard for @paypal @braintree @hyperwallet & @iZettle.
 </p>
 
 <p align="left">
     I spend my days dabbling my hands 🙌🏻 in many different areas of full-stack development 👨🏻‍💻 from back-end programming in <a href="https://nodejs.org/">node.js</a>  to front-end engineering with <a href="https://reactjs.org/">react</a>.
-</p>
-
-<p align="left">
-    With a passion for programming and full-stack development in all its forms, I love helping the community via open source contributions as much as I can.
 </p>
 
 <p align="left">
